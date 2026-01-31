@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Aplicativo de Promoções</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      color: #222;
+    }
+    p {
+      line-height: 1.6;
+      color: #444;
+    }
+    .box {
+      background: #fff;
+      padding: 24px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>Aplicativo Android de Promoções</h1>
+
+    <p>
+      Este projeto refere-se a um aplicativo Android em desenvolvimento,
+      criado em Flutter, com o objetivo de divulgar promoções e ofertas
+      de grandes varejistas do Brasil.
+    </p>
+
+    <p>
+      O aplicativo exibirá produtos, preços e imagens obtidos exclusivamente
+      por meio de feeds e APIs oficiais de programas de afiliados,
+      redirecionando o usuário para a loja parceira para a conclusão da compra.
+    </p>
+
+    <p>
+      Lojas previstas: Mercado Livre, KaBuM, entre outras disponíveis via
+      plataformas oficiais de afiliados.
+    </p>
+
+    <p>
+      Status do projeto: <strong>Em desenvolvimento</strong>
+    </p>
+  </div>
+</body>
+</html>
